@@ -1,6 +1,6 @@
 # Introduction 
 
-In this project I am analyzing logs to create a log analysis document using python code, logs are taken from a newspaper database called called "news".
+In this project I am analyzing logs to create a log analysis document using python code, logs are taken from a newspaper database called "news".
 This database is an SQL based database (Postgresql in particular) and it has 3 tables: Articles, Authors and Log.
 I was asked to write 3 queries to do the following:
 1. Retrieve the 3 most popular articles in the database.
